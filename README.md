@@ -7,11 +7,11 @@ Ye, Z., Yoganarasimhan, H., & Zheng, Y. (2025). Lola: Llm-assisted online learni
 
 Our replication is structured into two main parts, focusing on different methodological components of large language model (LLM) applications in business research.
 
-## Part I — Embedding & Prompt-Based Methods
+## Part I — Prompt- & Embedding-Based Methods
 
 Part I Presentation Recording
 
-The presentation recording for Part I (Embedding & Prompt) is available here: https://drive.google.com/file/d/1TGYBFzn8r9K5zAJ5JVqe4C5xfApNSNrR/view?usp=drive_link
+The presentation recording for Part I (Prompt & Embedding) is available here: https://drive.google.com/file/d/1TGYBFzn8r9K5zAJ5JVqe4C5xfApNSNrR/view?usp=drive_link
 
 This section focuses on reproducing and extending the embedding-based and prompt-based approaches described in the original paper.
 
