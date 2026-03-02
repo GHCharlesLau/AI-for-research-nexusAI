@@ -2,6 +2,7 @@
 A replication project conducted by the group, NexusAI, for the course DOTE 6635 (AI for Business Research) which is instructed by Prof. Renyu (Philip) Zhang. Please refer to the link for detailed course information: https://github.com/rphilipzhang/AI-PhD-S26
 
 The project replicates and extends the study published in https://pubsonline.informs.org/doi/abs/10.1287/mksc.2024.0990
+
 Ye, Z., Yoganarasimhan, H., & Zheng, Y. (2025). Lola: Llm-assisted online learning algorithm for content experiments. _Marketing Science_, _44_(5), 995-1016.
 
 Our replication is structured into two main parts, focusing on different methodological components of large language model (LLM) applications in business research.
