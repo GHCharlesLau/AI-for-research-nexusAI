@@ -11,7 +11,7 @@ Our replication is structured into two main parts, focusing on different methodo
 
 > The presentation recording for Part I (Prompt & Embedding) is available here: https://drive.google.com/file/d/1TGYBFzn8r9K5zAJ5JVqe4C5xfApNSNrR/view?usp=drive_link
 
-This section focuses on reproducing and extending the embedding-based and prompt-based approaches described in the original paper.
+This section focuses on reproducing and extending the prompt-based and embedding-based approaches described in the original paper.
 
 ### Prompt-Based Replication
 - Reimplemented prompt design strategies described in the original study  
