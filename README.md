@@ -19,7 +19,7 @@ This section focuses on reproducing and extending the prompt-based and embedding
 
 All prompt scripts and experiments are located in Prompt/For Prompt Engineering Method.ipynb
 
-### Embedding-Based Methods
+### Embedding-Based Replication
 - Implemented the embedding pipeline described in the original study
 - Replicated downstream analysis based on embedding features
 - Compared embedding-based results with prompt-based approaches
