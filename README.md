@@ -6,22 +6,25 @@ Ye, Z., Yoganarasimhan, H., & Zheng, Y. (2025). Lola: Llm-assisted online learni
 
 Our replication is structured into two main parts, focusing on different methodological components of large language model (LLM) applications in business research.
 
-Part I — Embedding & Prompt-Based Methods
-
-This section focuses on reproducing and extending the embedding-based and prompt-based approaches described in the original paper.
-
-Prompt-Based Replication
-We reimplemented the prompt design strategies described in the original study.
-In addition, we experimented with a newer frontier model (GPT-5.2) to evaluate performance differences relative to earlier LLM configurations.
-All prompt scripts and experiments are located in:
-
-Embedding-Based Methods
-
-This section implements embedding-based representations used in the original study.
-The corresponding scripts and data processing pipelines can be found in 
-
-Due to file size limitations, some embedding outputs and intermediate data files are stored externally in https://drive.google.com/drive/folders/1a6JvDSDEV4S61U3jmvkfbh54J4TCytip?usp=drive_link
+## Part I — Embedding & Prompt-Based Methods
 
 Part I Presentation Recording
 
 The presentation recording for Part I (Embedding & Prompt) is available here: https://drive.google.com/file/d/1TGYBFzn8r9K5zAJ5JVqe4C5xfApNSNrR/view?usp=drive_link
+
+This section focuses on reproducing and extending the embedding-based and prompt-based approaches described in the original paper.
+
+### Prompt-Based Replication
+- Reimplemented prompt design strategies described in the original study  
+- Evaluated a frontier model (GPT-5.2) for performance comparison  
+
+All prompt scripts and experiments are located in Prompt/For Prompt Engineering Method.ipynb
+
+### Embedding-Based Methods
+- Implemented the embedding pipeline described in the original study
+- Replicated downstream analysis based on embedding features
+- Compared embedding-based results with prompt-based approaches
+
+The corresponding scripts and data processing pipelines can be found in Emedding/For CTR prediction using OpenAI Embedding.ipynb and Emedding/For CTR prediction using Word2Vec256 Embedding.ipynb.
+
+> Due to file size limitations, some embedding outputs and intermediate data files are stored externally in https://drive.google.com/drive/folders/1a6JvDSDEV4S61U3jmvkfbh54J4TCytip?usp=drive_link
